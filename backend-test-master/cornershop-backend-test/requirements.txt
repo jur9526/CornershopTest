@@ -57,4 +57,6 @@ slack_sdk>=3.0
 slackeventsapi>=2.1.0
 Flask>=1.1.1
 slackclient>=1.0.7
+celery==5.0.5
+
 
